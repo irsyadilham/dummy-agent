@@ -14,10 +14,10 @@ def test():
 @app.post('/mula-imbasan')
 async def mula_imbasan(request: Request):
     body = await request.json()
-    tugasan_id = body['tugasan_id']
+    profil_tugasan_id = body['profil_tugasan_id']
 
     with open('scanned_data.json', 'r') as cbom:
-        cbom_data = json.load(cbom)
+        data_imbasan = json.load(cbom)
 
     connection = pika.BlockingConnection(
         pika.ConnectionParameters(
@@ -32,8 +32,8 @@ async def mula_imbasan(request: Request):
     channel.queue_declare(queue='tugasan_queue')
 
     data = {
-        'tugasan_id': tugasan_id,
-        'cbom_data': cbom_data
+        'profil_tugasan_id': profil_tugasan_id,
+        'data_imbasan': data_imbasan
     }
 
     channel.basic_publish(
