@@ -1,0 +1,322 @@
+[
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem",
+      "file_type": "certificate",
+      "algorithm": "RSAPublicKey",
+      "key_size": "2048",
+      "curve": "",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd",
+      "rsa_exponent": "65537",
+      "signature_algorithm": "SHA256-RSA",
+      "signature_hash": "",
+      "subject": "CN=*.uitm.edu.my",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5",
+      "not_before": "2025-07-28T00:00:00Z",
+      "not_after": "2026-08-24T23:59:59Z",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert2.pem",
+      "file_type": "certificate",
+      "algorithm": "RSAPublicKey",
+      "key_size": "3072",
+      "curve": "",
+      "rsa_modulus_fingerprint": "75fdd39df7e7f2787561fd91fb587c94",
+      "rsa_exponent": "65537",
+      "signature_algorithm": "SHA384-RSA",
+      "signature_hash": "",
+      "subject": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",
+      "issuer": "CN=Sectigo Public Server Authentication Root R46,O=Sectigo Limited,C=GB",
+      "serial": "397a66cc2756362e0daa87ca6eabe3b1",
+      "not_before": "2021-03-22T00:00:00Z",
+      "not_after": "2036-03-21T23:59:59Z",
+      "fingerprint_sha1": "dd55b4520291e276588f0dd02fafd83a7368e0fa",
+      "fingerprint_sha256": "8c54c334b66ba4e426772af4a3f9136c19a1aec729fdb28c535c07a5a4ef22e0"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert3.pem",
+      "file_type": "certificate",
+      "algorithm": "RSAPublicKey",
+      "key_size": "4096",
+      "curve": "",
+      "rsa_modulus_fingerprint": "32670d35a4a28933284bc8307103b8df",
+      "rsa_exponent": "65537",
+      "signature_algorithm": "SHA384-RSA",
+      "signature_hash": "",
+      "subject": "CN=Sectigo Public Server Authentication Root R46,O=Sectigo Limited,C=GB",
+      "issuer": "CN=USERTrust RSA Certification Authority,O=The USERTRUST Network,L=Jersey City,ST=New Jersey,C=US",
+      "serial": "d27fbbc1de359e5216ad6149586099c4",
+      "not_before": "2021-03-22T00:00:00Z",
+      "not_after": "2038-01-18T23:59:59Z",
+      "fingerprint_sha1": "2b18947a6a9fc7764fd8b5fb18a863b0c6dac24f",
+      "fingerprint_sha256": "92f351bf3d54164dfa8dd8f9e1139d3150349786485d2b9eecd00e2971c1e6c5"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\upm.edu.my\\upm.edu.my_cert1.pem",
+      "file_type": "certificate",
+      "algorithm": "RSAPublicKey",
+      "key_size": "2048",
+      "curve": "",
+      "rsa_modulus_fingerprint": "9f068c89d01da38941d5f9183d23a133",
+      "rsa_exponent": "65537",
+      "signature_algorithm": "SHA256-RSA",
+      "signature_hash": "",
+      "subject": "CN=*.upm.edu.my",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",
+      "serial": "36045fcf926930edc2ca8a67a0c1a861",
+      "not_before": "2025-07-03T00:00:00Z",
+      "not_after": "2026-07-03T23:59:59Z",
+      "fingerprint_sha1": "329ef0217401b0f3615eb212f8bbcc7636ffd8aa",
+      "fingerprint_sha256": "1fcb73f85b2da27b0fd20f23597f6b322731ff1efd752d6704eb88e0ccd681c3"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\upm.edu.my\\upm.edu.my_cert2.pem",
+      "file_type": "certificate",
+      "algorithm": "RSAPublicKey",
+      "key_size": "3072",
+      "curve": "",
+      "rsa_modulus_fingerprint": "75fdd39df7e7f2787561fd91fb587c94",
+      "rsa_exponent": "65537",
+      "signature_algorithm": "SHA384-RSA",
+      "signature_hash": "",
+      "subject": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB",
+      "issuer": "CN=Sectigo Public Server Authentication Root R46,O=Sectigo Limited,C=GB",
+      "serial": "397a66cc2756362e0daa87ca6eabe3b1",
+      "not_before": "2021-03-22T00:00:00Z",
+      "not_after": "2036-03-21T23:59:59Z",
+      "fingerprint_sha1": "dd55b4520291e276588f0dd02fafd83a7368e0fa",
+      "fingerprint_sha256": "8c54c334b66ba4e426772af4a3f9136c19a1aec729fdb28c535c07a5a4ef22e0"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\upm.edu.my\\upm.edu.my_cert3.pem",
+      "file_type": "certificate",
+      "algorithm": "RSAPublicKey",
+      "key_size": "4096",
+      "curve": "",
+      "rsa_modulus_fingerprint": "32670d35a4a28933284bc8307103b8df",
+      "rsa_exponent": "65537",
+      "signature_algorithm": "SHA384-RSA",
+      "signature_hash": "",
+      "subject": "CN=Sectigo Public Server Authentication Root R46,O=Sectigo Limited,C=GB",
+      "issuer": "CN=USERTrust RSA Certification Authority,O=The USERTRUST Network,L=Jersey City,ST=New Jersey,C=US",
+      "serial": "d27fbbc1de359e5216ad6149586099c4",
+      "not_before": "2021-03-22T00:00:00Z",
+      "not_after": "2038-01-18T23:59:59Z",
+      "fingerprint_sha1": "2b18947a6a9fc7764fd8b5fb18a863b0c6dac24f",
+      "fingerprint_sha256": "92f351bf3d54164dfa8dd8f9e1139d3150349786485d2b9eecd00e2971c1e6c5"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy1",
+      "file_type": "certificate_dummy1",
+      "algorithm": "RSAPublicKey_dummy1",
+      "key_size": "2048_dummy1",
+      "curve": "_dummy1",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy1",
+      "rsa_exponent": "65537_dummy1",
+      "signature_algorithm": "SHA256-RSA_dummy1",
+      "signature_hash": "_dummy1",
+      "subject": "CN=*.uitm.edu.my_dummy1",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy1",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy1",
+      "not_before": "2025-07-28T00:00:00Z_dummy1",
+      "not_after": "2026-08-24T23:59:59Z_dummy1",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy1",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy1"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy2",
+      "file_type": "certificate_dummy2",
+      "algorithm": "RSAPublicKey_dummy2",
+      "key_size": "2048_dummy2",
+      "curve": "_dummy2",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy2",
+      "rsa_exponent": "65537_dummy2",
+      "signature_algorithm": "SHA256-RSA_dummy2",
+      "signature_hash": "_dummy2",
+      "subject": "CN=*.uitm.edu.my_dummy2",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy2",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy2",
+      "not_before": "2025-07-28T00:00:00Z_dummy2",
+      "not_after": "2026-08-24T23:59:59Z_dummy2",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy2",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy2"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy3",
+      "file_type": "certificate_dummy3",
+      "algorithm": "RSAPublicKey_dummy3",
+      "key_size": "2048_dummy3",
+      "curve": "_dummy3",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy3",
+      "rsa_exponent": "65537_dummy3",
+      "signature_algorithm": "SHA256-RSA_dummy3",
+      "signature_hash": "_dummy3",
+      "subject": "CN=*.uitm.edu.my_dummy3",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy3",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy3",
+      "not_before": "2025-07-28T00:00:00Z_dummy3",
+      "not_after": "2026-08-24T23:59:59Z_dummy3",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy3",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy3"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy4",
+      "file_type": "certificate_dummy4",
+      "algorithm": "RSAPublicKey_dummy4",
+      "key_size": "2048_dummy4",
+      "curve": "_dummy4",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy4",
+      "rsa_exponent": "65537_dummy4",
+      "signature_algorithm": "SHA256-RSA_dummy4",
+      "signature_hash": "_dummy4",
+      "subject": "CN=*.uitm.edu.my_dummy4",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy4",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy4",
+      "not_before": "2025-07-28T00:00:00Z_dummy4",
+      "not_after": "2026-08-24T23:59:59Z_dummy4",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy4",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy4"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy5",
+      "file_type": "certificate_dummy5",
+      "algorithm": "RSAPublicKey_dummy5",
+      "key_size": "2048_dummy5",
+      "curve": "_dummy5",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy5",
+      "rsa_exponent": "65537_dummy5",
+      "signature_algorithm": "SHA256-RSA_dummy5",
+      "signature_hash": "_dummy5",
+      "subject": "CN=*.uitm.edu.my_dummy5",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy5",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy5",
+      "not_before": "2025-07-28T00:00:00Z_dummy5",
+      "not_after": "2026-08-24T23:59:59Z_dummy5",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy5",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy5"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy6",
+      "file_type": "certificate_dummy6",
+      "algorithm": "RSAPublicKey_dummy6",
+      "key_size": "2048_dummy6",
+      "curve": "_dummy6",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy6",
+      "rsa_exponent": "65537_dummy6",
+      "signature_algorithm": "SHA256-RSA_dummy6",
+      "signature_hash": "_dummy6",
+      "subject": "CN=*.uitm.edu.my_dummy6",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy6",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy6",
+      "not_before": "2025-07-28T00:00:00Z_dummy6",
+      "not_after": "2026-08-24T23:59:59Z_dummy6",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy6",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy6"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy7",
+      "file_type": "certificate_dummy7",
+      "algorithm": "RSAPublicKey_dummy7",
+      "key_size": "2048_dummy7",
+      "curve": "_dummy7",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy7",
+      "rsa_exponent": "65537_dummy7",
+      "signature_algorithm": "SHA256-RSA_dummy7",
+      "signature_hash": "_dummy7",
+      "subject": "CN=*.uitm.edu.my_dummy7",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy7",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy7",
+      "not_before": "2025-07-28T00:00:00Z_dummy7",
+      "not_after": "2026-08-24T23:59:59Z_dummy7",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy7",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy7"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy8",
+      "file_type": "certificate_dummy8",
+      "algorithm": "RSAPublicKey_dummy8",
+      "key_size": "2048_dummy8",
+      "curve": "_dummy8",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy8",
+      "rsa_exponent": "65537_dummy8",
+      "signature_algorithm": "SHA256-RSA_dummy8",
+      "signature_hash": "_dummy8",
+      "subject": "CN=*.uitm.edu.my_dummy8",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy8",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy8",
+      "not_before": "2025-07-28T00:00:00Z_dummy8",
+      "not_after": "2026-08-24T23:59:59Z_dummy8",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy8",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy8"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy9",
+      "file_type": "certificate_dummy9",
+      "algorithm": "RSAPublicKey_dummy9",
+      "key_size": "2048_dummy9",
+      "curve": "_dummy9",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy9",
+      "rsa_exponent": "65537_dummy9",
+      "signature_algorithm": "SHA256-RSA_dummy9",
+      "signature_hash": "_dummy9",
+      "subject": "CN=*.uitm.edu.my_dummy9",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy9",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy9",
+      "not_before": "2025-07-28T00:00:00Z_dummy9",
+      "not_after": "2026-08-24T23:59:59Z_dummy9",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy9",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy9"
+    }
+  },
+  {
+    "cbom_data": {
+      "path": "C:\\$Recycle.Bin\\S-1-5-21-1313532743-403041944-1746134682-1001\\$RVC2HO1\\uitm.edu.my\\uitm.edu.my_cert1.pem_dummy10",
+      "file_type": "certificate_dummy10",
+      "algorithm": "RSAPublicKey_dummy10",
+      "key_size": "2048_dummy10",
+      "curve": "_dummy10",
+      "rsa_modulus_fingerprint": "6909070e1a493d2cbcde5209ee4923dd_dummy10",
+      "rsa_exponent": "65537_dummy10",
+      "signature_algorithm": "SHA256-RSA_dummy10",
+      "signature_hash": "_dummy10",
+      "subject": "CN=*.uitm.edu.my_dummy10",
+      "issuer": "CN=Sectigo Public Server Authentication CA DV R36,O=Sectigo Limited,C=GB_dummy10",
+      "serial": "a660b70e6a7810c0bc05b520d744eed5_dummy10",
+      "not_before": "2025-07-28T00:00:00Z_dummy10",
+      "not_after": "2026-08-24T23:59:59Z_dummy10",
+      "fingerprint_sha1": "a6573dfb851786ff1c164ab179123b68f271c829_dummy10",
+      "fingerprint_sha256": "08b8914a961d6595ae91b3efa61bb827f18db6af53dbbfec7e71ad4857771c5e_dummy10"
+    }
+  }
+]
