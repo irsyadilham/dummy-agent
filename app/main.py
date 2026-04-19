@@ -44,4 +44,6 @@ async def mula_imbasan(request: Request):
 
     connection.close()
     
-    return data
+    return {
+        'message': 'Imbasan bermula'
+    }
